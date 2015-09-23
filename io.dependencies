@@ -19,8 +19,14 @@
   },
   {
     "remote":      "github",
-    "repository":  "InfinitiveOS-Devices/android_frameworks_opt_connectivity",
-    "target_path": "frameworks/opt/connectivity",
+    "repository":  "InfinitiveOS-Devices/proprietary_vendor_oppo",
+    "target_path": "vendor/oppo",
+    "revision":    "io-1.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "InfinitiveOS-Devices/proprietary_vendor_oneplus",
+    "target_path": "vendor/oneplus",
     "revision":    "io-1.0"
   },
   {
